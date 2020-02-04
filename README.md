@@ -34,7 +34,7 @@ $ apt-get update
 $ apt-get install ffmpeg sox portaudio19-dev libssl-dev libcurl4-openssl-dev
 ```
 
-### 2. Install python dependency
+### 3. Install python dependency
 
 This repository was tested in python3.7.5 environment and the compatiblity check in other python versions is still in progress.  
 Make sure to have install `pip` before execute the following code.
@@ -43,7 +43,7 @@ Make sure to have install `pip` before execute the following code.
 $ pip install -r test-requirements.txt
 ```
 
-### 3. Get your sense API key
+### 4. Get your sense API key
 
 You need to get a key to use sense API. Visit https://cochlear.ai/beta-subscription/ and sign up for free.  
 Then put the key inside example_stream.py file.

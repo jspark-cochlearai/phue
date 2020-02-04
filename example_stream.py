@@ -6,7 +6,7 @@
 # can be interpreted by sense API. In this example, you can turn on and off     #
 # the light bulb by whistling and change the color by finger snapping.          #
 # Check this link below to see the demonstration:                               #
-# https://www.instagram.com/p/B75ewxdhdqD                                       #
+# https://www.instagram.com/p/B8JUc0Ah4ep                                       #
 #################################################################################
 
 import json

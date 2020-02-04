@@ -6,7 +6,7 @@ This is a python example to control Philips hue smart light bulb through sense A
 Sense API provided by Cochlear.ai Ltd. is a powerful tool that enables machines to understand various sounds.  
 Using this example, you can turn on and off the light bulb by whistling and change the color by finger snapping.  
 Check the link below to see the demonstration:  
-https://www.instagram.com/p/B75ewxdhdqD
+https://www.instagram.com/p/B8JUc0Ah4ep
 
 
 ## Environment setting

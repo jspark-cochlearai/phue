@@ -48,6 +48,16 @@ $ pip install -r test-requirements.txt
 You need to get a key to use sense API. Visit https://cochlear.ai/beta-subscription/ and sign up for free.  
 Then put the key inside example_stream.py file.
 
+### 5. Get your Bridge's ip address
+
+The IP address of the bridge can be obtained in the Philips hue mobile app.  
+Please put the ip address inside example_stream.py file.
+
+### 6. Set the light bulb index
+
+If you have more than one light bulb, you can select which one to control with this example with the variable *idx*.  
+
+
 ## Launch example
 
 Run

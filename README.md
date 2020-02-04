@@ -71,7 +71,7 @@ For further information, please refer to our API document: http://cochlear.ai/do
 This repository is merely a combination of the two examples made by Cochlear.ai and Phue.  
 For more information, please refer to the original sources.  
 
-1. Phue library
+1. Phue library  
 https://github.com/studioimaginaire/phue
 
 2. Sense API and the documentation by Cochlear.ai Ltd.  
